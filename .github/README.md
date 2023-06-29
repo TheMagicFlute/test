@@ -6,7 +6,7 @@
 
 - [x] Issue and PR
 
-# Linus's stats
+# Linus's GitHub stats
 
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=torvalds&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
 
